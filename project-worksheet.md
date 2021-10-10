@@ -88,5 +88,12 @@ Work in progress.
 
 ## Issues and Resolutions
 
-Work in progress.
+October 9th:
+-Organized basic HTML layout
+-Designed the main banner for the header.
 
+October 10th:
+-Revised Photoshop banner
+-Added YouTube Video Links
+
+Hope to have the HTML layout complete by the end of the day
