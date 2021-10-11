@@ -92,8 +92,10 @@ October 9th:
 -Organized basic HTML layout
 -Designed the main banner for the header.
 
-October 10th:
--Revised Photoshop banner
--Added YouTube Video Links
--HTML nearing completion (bugs to fix)
--Worked on CSS outline
+October 11th:
+-Found a really cool CSS Gradient site that helped give the PERFECT
+background color for my navigation bar.
+-Managed to get the nav buttons to look right.
+-Working on getting text over the aboutme image background.
+-Getting the Web Designs (General Assembly class projects)
+layout prepared.
