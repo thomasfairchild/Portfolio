@@ -95,5 +95,5 @@ October 9th:
 October 10th:
 -Revised Photoshop banner
 -Added YouTube Video Links
-
-Hope to have the HTML layout complete by the end of the day
+-HTML nearing completion (bugs to fix)
+-Worked on CSS outline
