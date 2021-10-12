@@ -94,7 +94,7 @@ October 9th:
 
 October 11th:
 -Found a really cool CSS Gradient site that helped give the PERFECT
-background color for my navigation bar.
+background color for my navigation bar and the overall look of the site.
 -Managed to get the nav buttons to look right.
 -Working on getting text over the aboutme image background.
 -Getting the Web Designs (General Assembly class projects)
