@@ -5,8 +5,8 @@
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Fri 10/8| Project Description | Awaiting approval
-|Fri 10/8| Wireframes / Priority Matrix / Timeline | Awaiting approval
+|Fri 10/8| Project Description | Complete
+|Fri 10/8| Wireframes / Priority Matrix / Timeline | Complete
 |Sat 10/9| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Sun 10/10| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Mon 10/11| Core Application Structure (HTML, CSS, etc.) | Incomplete
