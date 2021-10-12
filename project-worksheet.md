@@ -118,3 +118,7 @@ October 12th:
 -Through Adobe Stock, I acquired the license to select social media icons (Gmail, YouTube, Twitter, etc.)
 
 -Revised the social media icons in Adobe Photoshop.
+
+-Carefully organized all the divs.
+
+-Configured ALL the Media settings.
