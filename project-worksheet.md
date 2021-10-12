@@ -106,3 +106,7 @@ https://cssgradient.io/
 
 -Getting the Web Designs (General Assembly class projects)
 layout prepared.
+
+October 12th:
+
+-With Adobe After Effects/Photoshop, the main banner has been converted into a gif.
