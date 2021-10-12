@@ -110,3 +110,5 @@ layout prepared.
 October 12th:
 
 -With Adobe After Effects/Photoshop, the main banner has been converted into a gif.
+
+-HTML/CSS Layout nearing completion.
