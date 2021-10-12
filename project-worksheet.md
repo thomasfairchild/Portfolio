@@ -112,3 +112,9 @@ October 12th:
 -With Adobe After Effects/Photoshop, the main banner has been converted into a gif.
 
 -HTML/CSS Layout nearing completion.
+
+-Goal is to organize things and set up the Mobile/Desktop settings.
+
+-Through Adobe Stock, I acquired the license to select social media icons (Gmail, YouTube, Twitter, etc.)
+
+-Revised the social media icons in Adobe Photoshop.
