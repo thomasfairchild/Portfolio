@@ -12,7 +12,7 @@
 |Mon 10/11| Core Application Structure (HTML, CSS, etc.) | Complete
 |Tues 10/12| Javascript, JQuery, API | Complete
 |Wed 10/13| Javascript, JQuery, API, Bug Fixes | Complete
-|Thurs 10/14| Final Touches (Git) | Incomplete
+|Thurs 10/14| Final Touches (Git) | Complete
 |Fri 10/15| Present | Incomplete
 
 
@@ -39,7 +39,7 @@ https://i.imgur.com/LhzuFp0.jpg
 
 ### MVP
 
-HTML (Pseudo-code, Layout, Nav Bar, About Section, VFX Section, Web Project Section, Footer w/ Contact Info, Inspirational Quotes, etc.)
+HTML (Layout, Nav Bar, About Section, VFX Section, Web Project Section, Footer w/ Contact Info, Inspirational Quotes, etc.)
 
 CSS (FlexBox, Color, Layout adjustments, Placement, Misc, etc...)
 
@@ -54,15 +54,13 @@ Miscellaneous: Mainly for the things I haven't thought of yet. But it'll likely 
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Pseudo-code | H | 1hr | hr |
-| HTML Layout | H | 2hr | hr |
-| Nav Bar | H | 1hr | hr |  
-| CSS | H | 2hr | hr |  
+| HTML Layout | H | 2hr | 2 hr |
+| Nav Bar | H | 1hr | 1.5 hrs |  
+| CSS | H | 2hr | 3 hrs |  
 | Javascript | H | 4hrs |  hr | 
 | JQuery | M | 3hrs | |
 | API | H | 2 hrs |  hr |
-| Photoshop Assets | H | 2hrs | hr |
- 
+| Photoshop Assets | H | 2hrs | 1 hr |
 | Total | H | 17hrs| hrs |
 
 #### PostMVP
