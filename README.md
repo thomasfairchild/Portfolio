@@ -128,3 +128,10 @@ October 13th:
 -Today's goal is to use jQuery/Ajax to play quotes over an image.
 
 -Goal remains incomplete. Requested and received assistance from an instructor--very helpful; however, more remains to be done.
+
+October 14th:
+
+-Due to complications, I'll have to improvise. Instead of using jQuery/Ajax to
+generate a random quote, I decided to simply add one that matters to me.
+
+-Update: I challenged myself and made a quotesArray in Javascript. Now I have a random quote generator.
