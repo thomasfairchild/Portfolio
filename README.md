@@ -57,24 +57,24 @@ Miscellaneous: Mainly for the things I haven't thought of yet. But it'll likely 
 | HTML Layout | H | 2hr | 2 hr |
 | Nav Bar | H | 1hr | 1.5 hrs |  
 | CSS | H | 2hr | 3 hrs |  
-| Javascript | H | 4hrs |  hr | 
-| JQuery | M | 3hrs | |
-| API | H | 2 hrs |  hr |
+| Javascript | H | 4hrs |  6hrs | 
+| JQuery | M | 3hrs | 2.5hrs |
+| API | H | 2 hrs |  2.5 hrs |
 | Photoshop Assets | H | 2hrs | 1 hr |
-| Total | H | 17hrs| hrs |
+| Total | H | 17hrs| 18.5 hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Bug Fixes | H | 3hrs |  hr | 
-| CSS | H | 1hr | hr | 
-| About Section | H | .5hr |  hr |
-| VFX Section | M | 1hr | hr |
-| Web Projects Section | H | 1hr |  hr | 
-| Contact Info | H | .5hr | hr | 
-| Social Media Icons | L | 1hr |  hr |
-| Interactive Buttons | H | 1hr | hr | 
-| Total | H | 9hrs| hrs |
+| Bug Fixes | H | 3hrs | 4 hrs | 
+| CSS | H | 1hr | 3 hrs | 
+| About Section | H | .5hr |  .5hr |
+| VFX Section | M | 1hr | 1 hr |
+| Web Projects Section | H | 1hr |  1.5 hr | 
+| Contact Info | H | .5hr | 1.5 hrs | 
+| Social Media Icons | L | 1hr |  .5hr |
+| Interactive Buttons | H | 1hr | .5hr | 
+| Total | H | 9hrs| 12.5hrs |
 
 ## Additional Libraries
 
@@ -133,3 +133,5 @@ October 14th:
 generate a random quote, I decided to simply add one that matters to me.
 
 -Update: I challenged myself and made a quotesArray in Javascript. Now I have a random quote generator.
+
+-After several bug fixes/adjustments, I'm happy with how things have turned out!
