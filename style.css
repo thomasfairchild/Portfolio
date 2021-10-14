@@ -273,6 +273,9 @@ button {
     #inspire-quotes {
         display: none;
     }
+    .quote-container {
+    display: none;
+    }
 }
 
 /* Mobile 1*/
@@ -336,6 +339,9 @@ button {
     }
     #inspire-quotes {
         display: none;
+    }
+    .quote-container {
+    display: none;
     }
 }
 
