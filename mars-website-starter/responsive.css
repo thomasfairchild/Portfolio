@@ -1,0 +1,44 @@
+@media only screen and (min-width: 768px) {
+    .arrow {
+        display: none;
+    }
+    .container header .wrapper .article .description {
+        max-height:300px;
+        overflow: visible; 
+    }
+    section.dashboard .slick-list .slick-track {
+        display: flex;
+    }
+    section.dashboard .slick-list .slide {
+        opacity: 1;
+    }
+    section.dashboard .slick-list .slick-track[index="2"] {
+        display: flex;
+    }
+    .container header .header-nav-area .menu-icon {
+        display: flex;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .container header .wrapper {
+        width: 38%;
+        height: 23%;
+        text-align: left;
+        opacity: 90%;
+        margin-left: 40px;
+    }
+    .container header .header-nav-area #nav_container {
+        display: flex;
+        align-items: center;
+        text-align: right;
+        margin-right: 30px;
+}
+    header .wrapper .article footer {
+        display: flex;
+}
+    section.dashboard .slick-list .slick-track[index="2"] {
+        display: flex;
+}
+}
+/* Needs more Matt Damon. */
