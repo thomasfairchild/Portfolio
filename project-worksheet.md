@@ -122,3 +122,9 @@ October 12th:
 -Carefully organized all the divs.
 
 -Configured ALL the Media settings.
+
+October 13th:
+
+-Today's goal is to use jQuery/Ajax to play quotes over an image.
+
+-Goal remains incomplete. Requested and received assistance from an instructor--very helpful; however, more remains to be done.
