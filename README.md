@@ -7,11 +7,11 @@
 |---|---| ---|
 |Fri 10/8| Project Description | Complete
 |Fri 10/8| Wireframes / Priority Matrix / Timeline | Complete
-|Sat 10/9| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Sun 10/10| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Mon 10/11| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Tues 10/12| Javascript, JQuery, API | Incomplete
-|Wed 10/13| Javascript, JQuery, API, Bug Fixes | Incomplete
+|Sat 10/9| Core Application Structure (HTML, CSS, etc.) | Complete
+|Sun 10/10| Core Application Structure (HTML, CSS, etc.) | Complete
+|Mon 10/11| Core Application Structure (HTML, CSS, etc.) | Complete
+|Tues 10/12| Javascript, JQuery, API | Complete
+|Wed 10/13| Javascript, JQuery, API, Bug Fixes | Complete
 |Thurs 10/14| Final Touches (Git) | Incomplete
 |Fri 10/15| Present | Incomplete
 
