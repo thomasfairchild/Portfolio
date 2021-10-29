@@ -1,6 +1,16 @@
 # Project Overview
 
 
+
+## Project Links
+
+My GitHub:
+- [https://github.com/thomasfairchild]
+
+My Website:
+- [https://thomasfairchild.github.io/]
+
+
 ## Project Schedule
 
 |  Day | Deliverable | Status
