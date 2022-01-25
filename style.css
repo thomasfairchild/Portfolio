@@ -163,26 +163,16 @@
 .quote-container {
     display: flex;
     justify-content: center;
-}
-.quote-container {
-    display: flex;
-    justify-content: center;
     align-items: center;
-    background-image: url(/images/quotesbanner.JPG);
     background-repeat: no-repeat;
     background-position: center;
     max-width: 100%;
     width: 1920px;
-    height: 690px;
+    height: 640px;
+    background: rgb(118,232,255);
+    background: linear-gradient(0deg, rgba(118,232,255,0.7945553221288515) 0%, rgba(179, 247, 255, 0.666) 100%);
+    background-image: url(/images/quotesbanner.JPG);
 }
-/* #sagan-quote {
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    color: rgba(0, 77, 54, 0.741);
-    font-size: 30px;
-    height: 60px;
-} */
 #quoteDisplay {
     display: flex;
     justify-content: center;
