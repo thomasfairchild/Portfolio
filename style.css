@@ -127,7 +127,7 @@
 .web-container {
     display: flex;
     justify-content: center;
-    height: 385px;
+    height: 355px;
     flex-wrap: wrap;
     align-content: space-between;
     background-size: cover;
